@@ -2,8 +2,8 @@
 
 ### 💫 Hi i'm Neo:
 👨‍💻 Web Developer sharing my knowledge in tech<br/>
-🔭 I’m currently working on [Rental car Agency](https://github.com/ThisIzNeo/Rental-Cars-Agency)<br/>
-🌱 Currently learning about [Relational DB](https://www.sololearn.com/en/learn/courses/sql-introduction)<br/>
+🔭 I’m currently working on **[BOOK - LIBRARY]**<br/>
+🌱 Currently learning about [REACT - NEXT.JS](https://www.sololearn.com/en/learn/courses/sql-introduction)<br/>
 💬 Ask me about **React**, **Node.js**<br/>
 📫 How to reach me **Younesbox01@gmail.com**<br/>
 
