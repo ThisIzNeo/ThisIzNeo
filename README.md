@@ -1,6 +1,6 @@
 [![MasterHead](https://www.deaninfotech.com/static/img/portfolio-banner.jpg)
 
-### 💫 Hi i'm Neo:
+### 💫 Hi i'm Hako:
 👨‍💻 Backend Developer sharing my knowledge in tech<br/>
 🔭 I’m currently working on **[Dreamz-Platform](https://github.com/ThisIzNeo/EduSphere-Platform)**<br/>
 🌱 Currently learning about [ruby - MySql](https://www.sololearn.com/en/learn/courses/sql-introduction)<br/>
