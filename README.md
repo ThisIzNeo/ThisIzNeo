@@ -5,7 +5,7 @@
 🔭 I’m currently working on **[EduSphere-Platform](https://github.com/ThisIzNeo/EduSphere-Platform)**<br/>
 🌱 Currently learning about [Node.js - MongoDB](https://www.sololearn.com/en/learn/courses/sql-introduction)<br/>
 💬 Ask me about **React**, **Next.js**<br/>
-📫 How to reach me **younesmailbox1@gmail.com**<br/>
+📫 How to reach me **HakooDev7@gmail.com**<br/>
 
 
 ## 🌐 Socials:
