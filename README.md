@@ -1,13 +1,9 @@
 ![MasterHead](https://www.deaninfotech.com/static/img/portfolio-banner.jpg)
-
-👨‍💻 Fullctack Developer sharing my knowledge in tech<br/>
-🔭 I’m currently working on **[EduSphere-Platform](https://github.com/ThisIzNeo/EduSphere-Platform)**<br/>
-🌱 Currently learning about [Node.js - MongoDB](https://www.sololearn.com/en/learn/courses/sql-introduction)<br/>
-💬 Ask me about **React**, **Next.js**<br/>
-
+<hr>
 
 ### 💫 Hi i'm Neo:
-🔭 I’m currently working on **EduSphere-Platform**<br>
+👨‍💻 Fullctack Developer sharing my knowledge in tech<br/>
+🔭 I’m currently working on **[EduSphere-Platform](https://github.com/ThisIzNeo/EduSphere-Platform)**<br/>
 🤝 I’m looking for help with **PHP**-**MySql**<br>
 🌱 I’m currently learning **PHP**-**MySql**<br>
 💬 Ask me about **React**-**MongoDB**<br>
