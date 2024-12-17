@@ -2,12 +2,12 @@
 <hr>
 
 ### 💫 Hi i'm Neo:
-👨‍💻 Fullctack Developer sharing my knowledge in tech<br/>
-🔭 I’m currently working on **[EduSphere-Platform](https://github.com/ThisIzNeo/EduSphere-Platform)**<br/>
-🤝 I’m looking for help with **PHP**-**MySql**<br>
-🌱 I’m currently learning **PHP**-**MySql**<br>
-💬 Ask me about **React**-**MongoDB**<br>
-📫 How to reach me **HakooDev7@gmail.com**<br/>
+👨‍💻 Web Developer & Graphic Designer and 3D modeler sharing my knowledge in tech<br/>
+🔭 I’m currently working on **[Future of websites](https://github.com/ThisIzNeo/3D-Magic-AuraX)**<br/>
+🤝 I’m looking for help with **Typescript**<br>
+🌱 I’m currently learning **Typescript**-*Backend**<br>
+💬 Ask me about **Next.js**-**React**<br>
+📫 How to reach me **thisizneo.dev@gmail.com**<br/>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Du5xKyymJw) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/This_Is_Neo/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ThisIzNeo) 
