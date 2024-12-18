@@ -1,7 +1,7 @@
 ![MasterHead](https://www.deaninfotech.com/static/img/portfolio-banner.jpg)
 <hr>
 # 💫 About Me:
-👨‍💻 Web Developer & Graphic Designer and 3D modeler sharing my knowledge in tech<br>🔭 I’m currently working on **![Future of websites](https://github.com/ThisIzNeo/3D-AuraX)**<br>🤝 I’m looking for help with **Typescript**<br>🌱 I’m currently learning **Typescript**-**Backend**<br>💬 Ask me about **Next.js**-**React**<br>📫 How to reach me **thisizneo.dev@gmail.com**
+👨‍💻 Web Developer & Graphic Designer and 3D modeler sharing my knowledge in tech<br>🔭 I’m currently working on <a href="https://github.com/ThisIzNeo/3D-AuraX">Future of Websites</a><br>🤝 I’m looking for help with <b>Typescript</b><br>🌱 I’m currently learning <b>Typescript</b> - <b>Backend</b><br>💬 Ask me about <b>Next.js</b> - <b>React</b><br>📫 How to reach me <b>thisizneo.dev@gmail.com</b>
 
 
 ## 🌐 Socials:
