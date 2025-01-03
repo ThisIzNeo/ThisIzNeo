@@ -2,7 +2,7 @@
 <hr>
 <h3>💫 About Me:</h3>
 <br>
-👨‍💻 Web Developer & Graphic Designer and 3D modeler sharing my knowledge in tech<br>🔭 I’m currently working on <a>none</a><br>🤝 I’m looking for help with <b>Typescript</b><br>🌱 I’m currently learning <b>Typescript</b> - <b>Backend</b><br>💬 Ask me about <b>Vite</b> - <b>React</b><br>📫 How to reach me <b>thisizneo.dev@gmail.com</b>
+👨‍💻 Web Developer & Graphic Designer and 3D modeler sharing my knowledge in tech<br>🔭 I’m currently working on <b><a>Null</a></b><br>🤝 I’m looking for help with <b>Typescript</b><br>🌱 I’m currently learning <b>Typescript</b> - <b>Backend</b><br>💬 Ask me about <b>Vite</b> - <b>React</b><br>📫 How to reach me <b>thisizneo.dev@gmail.com</b>
 
 
 ## 🌐 Socials:
