@@ -1,4 +1,4 @@
-![MasterHead](https://www.deaninfotech.com/static/img/portfolio-banner.jpg)
+![MasterHead]([https://www.deaninfotech.com/static/img/portfolio-banner.jpg](https://media.discordapp.net/attachments/1229928580067102833/1327706108902641726/giyhub.gif?ex=67840a2b&is=6782b8ab&hm=207e9e98dacffa9ca6562792c8c1b492ea4fbc4605015b55a8a42a856d95252c&=&width=705&height=292))
 <hr>
 <h3>💫 About Me:</h3>
 <br>
