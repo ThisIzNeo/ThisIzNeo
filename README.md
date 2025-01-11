@@ -1,6 +1,5 @@
-![MasterHead]([https://www.deaninfotech.com/static/img/portfolio-banner.jpg](https://media.discordapp.net/attachments/1229928580067102833/1327706108902641726/giyhub.gif?ex=67840a2b&is=6782b8ab&hm=207e9e98dacffa9ca6562792c8c1b492ea4fbc4605015b55a8a42a856d95252c&=&width=705&height=292))
-<hr>
 <h3>💫 About Me:</h3>
+<img src="https://media.discordapp.net/attachments/1229928580067102833/1327708797161967739/github.png?ex=67840cac&is=6782bb2c&hm=3f1be367e38233525642af505fd56d9e6a18e872a1bb7eec82523443d61d6bbe&=&format=webp&quality=lossless&width=1440&height=300" >
 <br>
 👨‍💻 Web Developer & Graphic Designer and 3D modeler sharing my knowledge in tech<br>🔭 I’m currently working on <b><a>Null</a></b><br>🤝 I’m looking for help with <b>Typescript</b><br>🌱 I’m currently learning <b>Typescript</b> - <b>Backend</b><br>💬 Ask me about <b>Vite</b> - <b>React</b><br>📫 How to reach me <b>thisizneo.dev@gmail.com</b>
 
